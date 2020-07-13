@@ -1,4 +1,4 @@
-# Metadata Visualization for Lakes of Open Data
+# Loch Prospector: Metadata Visualization for Lakes of Open Data
 
 Link to the visualization: https://metadatavis.github.io/
 
